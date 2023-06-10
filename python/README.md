@@ -13,3 +13,8 @@ Hypothesis tests and Monte Carlo random sampling Confidence/credibility interval
 Add code to calculate different quantiles from sorted arrays of outcomes
 
 Add code to visualize the distribution of outcomes stored in the input file you pass to the program (generated using CookieTimer.py or CookieTimer.x)
+
+# Random
+Added normal distribution method.
+Completed 3.py with categorical distribution.
+I changed CoinToss to use categorical distribution.
